@@ -7,7 +7,7 @@
 
 
  <div style="display: inline_block"><br>
-   
+<img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>   
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
     
   ##
